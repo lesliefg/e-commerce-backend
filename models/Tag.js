@@ -24,5 +24,5 @@ Tag.init(
     modelName: 'tag',
   }
 );
-
+//Exporting our Tag model
 module.exports = Tag;

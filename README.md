@@ -55,6 +55,7 @@
 ## Credits
 - Starter Code by Xandromus [https://github.com/Xandromus] & repo [https://github.com/coding-boot-camp/fantastic-umbrella]
 - Code finished by Leslie [https://github.com/lesliefg]
+- Sequelize reference [https://sequelize.org/docs/v6/core-concepts/validations-and-constraints/]
 
 ## Licenses
 - This project has a MIT license. To learn more about this license type click the license button at the top of the README.
