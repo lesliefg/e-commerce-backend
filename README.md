@@ -6,11 +6,10 @@
 * [Description](#description)
 * [Installation](#installation)
 * [Usage](#usage)
-* [Contributing](#contributing)
-* [Tests](#tests)
 * [Questions](#questions)
 * [Credits](#credits)
 * [Licenses](#license)
+* [Tutorial](#tutorial)
 
 ## Description
 - Use as a backend for an e-commerce website with latest tech in order to compete with other e-commerce companies.
@@ -61,4 +60,5 @@
 - This project has a MIT license. To learn more about this license type click the license button at the top of the README.
 
 ## Tutorial 
-tba
+- Video link [https://drive.google.com/file/d/15bRE8bjKaiNxU9OrkI8jL2z84vlNzGGH/view] 
+- Video also available in the assets folder

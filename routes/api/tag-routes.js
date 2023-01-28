@@ -19,11 +19,11 @@ router.get('/', async (req, res) => {
 router.get('/:id', async (req, res) => {
   try {
     const tagData = await Tag.findByPk(req.params.id, {
-      include: [{ model: ProductTag }],
+      include: [{ model: Product }],
     });
 
     if (!tagData) {
-      res.status(404).json({ message: 'No library card found with that id!' });
+      res.status(404).json({ message: 'No tags found with that id!' });
       return;
     }
 
